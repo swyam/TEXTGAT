@@ -1,5 +1,5 @@
 # TEXTGAT
-processing code is taken from yao'implementation,
+Processing code is taken from yao'implementation,
 
 GCN is taken from Kipf implementation.
 
