@@ -5,7 +5,7 @@ GCN is taken from Kipf implementation.
 
 GAT is pytorch implementation of VeIickovic paper.
 
-This project based "Graph Convolutional Networks for Text Classification. Yao et al. AAAI2019." in PyTorch.
+This project is based on  "Graph Convolutional Networks for Text Classification. Yao et al. AAAI2019." in PyTorch.
 
 data and its processing is taken from source code  https://github.com/iworldtong/text_gcn.pytorch.
 
